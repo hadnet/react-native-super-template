@@ -1,0 +1,8 @@
+{
+  "name": "react-native-super-template",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:hadnet/react-native-super-template.git",
+  "author": "hadnet",
+  "license": "MIT"
+}
